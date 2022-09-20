@@ -1,0 +1,173 @@
+.body {
+
+    background-color: bisque;
+}
+
+.main { 
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: white;
+    position: absolute;
+    left: 121px;
+    width: 900px; 
+    padding: 15px; 
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 0px;
+}
+
+.header{
+    top: 0px;
+    padding: 0px;
+    width: 1251px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.h1 {
+    
+    top: 40px;
+    text-align: center;
+}
+
+.hr {
+    top: 40px;
+    width: 1278px;
+    background-color: black;
+    height: 1px;
+    position: absolute;
+    left: -15px;
+    z-index: 2;
+}
+.title {
+    text-align: center;
+}
+.section {
+    color: rgb(23, 181, 181);
+}
+.photo {
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+}
+.photo1 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 200px;
+}
+.photo2 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 360px;
+}
+.photo3 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 520px;
+}
+.photo4 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 680px;
+} 
+.photo5 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 840px;
+}
+.photo6 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1000px;
+}
+.photo7 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1160px;
+}
+.photo8 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1300px;
+}
+.photo9 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1440px;
+}
+.photo10 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1580px;
+}
+.photo11 {
+    border-top: solid 2px black;
+    height: 250px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1720px;
+}
+.photo12 {
+    border-top: solid 2px black;
+    height: 250px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 1970px;
+}
+.photo13 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 2220px;
+}
+.photo14 {
+    border-top: solid 2px black;
+    height: 160px;
+    width: 242px;   
+    position: absolute;
+    right: 0;
+    top: 2380px;
+}
+.h002 {
+    text-align: center;
+    color: aqua;
+}
